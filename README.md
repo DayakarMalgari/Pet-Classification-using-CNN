@@ -13,3 +13,6 @@ CNN Architecture: Total 24 layers, 1,207,588 Paramters, 1,206,628 Trainable and 
 
 
 Note: Image files are large in number and github doesn't allow me to upload. If required they can be downloaded from Kaggle.
+
+
+
